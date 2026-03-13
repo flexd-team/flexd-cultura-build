@@ -43,7 +43,7 @@ Cultura is a Virtual 3D Assistant framework powered by AI, with the Minangkabau 
 ## How to Play
 
 1. Point your camera toward the conversational AI NPC
-2. A text input prompt or microphone button will appear — hold **T** to speak, or type your question
+2. A text input prompt or microphone button will appear — hold **T** to speak, or press **Enter** and type your question
 3. The NPC will guide you around the environment; feel free to ask anything about the culture
 
 ## Key Bindings
@@ -54,6 +54,14 @@ Cultura is a Virtual 3D Assistant framework powered by AI, with the Minangkabau 
 | `F10` | Settings |
 | Hold `T` | Enable microphone and speak to NPC |
 | `Enter` | Type a message to NPC |
+
+## AI Disclosure
+
+* **Convai**: Integrated as the primary Conversational AI platform to power the system's core feature. It was used to handle the Speech-to-Text (STT), Natural Language Processing (NLP), and Text-to-Speech (TTS) pipelines, specifically managing our modular cultural knowledge base (starting with our Minangkabau inaugural proof-of-concept) to enable the 3D character to understand and respond to users in real-time.
+* **Gemini**: Utilized for linguistic refinement, translation, and compiling the final structure of this hackathon report to ensure a highly professional, bilingual presentation.
+* **ChatGPT**: Utilized during the initial brainstorming phases to assist in idea exploration, formulating early research concepts, and refining the structural logic of the project's foundational framework.
+
+**Final Disclaimer**: All Artificial Intelligence (AI) technologies in this project are utilized both as supporting tools during the development and report preparation process, and as the core component that powers the system's conversational interaction capabilities.
 
 ## Team Members
 
