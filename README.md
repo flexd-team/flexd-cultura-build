@@ -2,6 +2,9 @@
 
 Cultura is a Virtual 3D Assistant framework powered by AI, with the Minangkabau culture as its first successful proof-of-concept. The system brings together Convai's integrated STT, NLP, and TTS capabilities to enable a 3D character that listens, understands, and speaks — delivering a real-time, immersive cultural experience within an interactive digital environment.
 
+# Video Demo
+[![CULTURA: AI-Powered Interactive Cultural Exploration By Team FLEXD](https://img.youtube.com/vi/9szzyIG2JTs/maxresdefault.jpg)](https://youtu.be/9szzyIG2JTs?si=Qj4SKwO47rUf09V-)
+
 ## Features
 
 - Real-time voice conversation with a 3D virtual character
